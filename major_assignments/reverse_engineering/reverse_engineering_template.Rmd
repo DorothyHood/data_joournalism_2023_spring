@@ -133,7 +133,7 @@ marvel_character_appearcount %>%
 
 * **Sentence text**: "Women and men were almost exactly equally likely to have a secret identity in the Marvel universe (49.4 percent of males and 49.5 percent of females), while in the DC universe 51 percent of males had a secret identity and 45 percent of females did."
 
-* **Analysis summary**: After putting in the code for each comic company, it listed out the "ids, sex and count". This showed how many male and female characters in DC and Marvel had secret identities, among other genders. For Marvel, when you add up male characters that were labeled with secret identity, public identity and no dual identity, you get 9,119 male characters. When you divide the male characters with the secret identities, 4,506, by 9,119 and multiply it by 100, you get 49.4%. There are a total of 3,042 females, and dividing their secret identity total (1505) by that total, yoou get 49.5%.
+* **Analysis summary**: After putting in the code for each comic company, it listed out the "ids, sex and count". This showed how many male and female characters in DC and Marvel had secret identities, among other genders. For Marvel, when you add up male characters that were labeled with secret identity, public identity and no dual identity, you get 9,119 male characters. When you divide the male characters with the secret identities, 4,506, by 9,119 and multiply it by 100, you get 49.4%. There are a total of 3,042 females, and dividing their secret identity total (1505) by that total, you get 49.5%.
 
 ```{r}
 # Put code to reverse engineer sentence here
